@@ -14,16 +14,16 @@ https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data
 #### Features
 The features used in this project include:
 
-pH: The pH level of the water.
-Hardness: Water hardness, a measure of mineral content.
-Solids: Total dissolved solids in the water.
-Chloramines: Chloramines concentration in the water.
-Sulfate: Sulfate concentration in the water.
-Conductivity: Electrical conductivity of the water.
-Organic_carbon: Organic carbon content in the water.
-Trihalomethanes: Trihalomethanes concentration in the water.
-Turbidity: Turbidity level, a measure of water clarity.
-Potability: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
+1. pH: The pH level of the water.
+2. Hardness: Water hardness, a measure of mineral content.
+3. Solids: Total dissolved solids in the water.
+4. Chloramines: Chloramines concentration in the water.
+5. Sulfate: Sulfate concentration in the water.
+6. Conductivity: Electrical conductivity of the water.
+7. Organic_carbon: Organic carbon content in the water.
+8. Trihalomethanes: Trihalomethanes concentration in the water.
+9. Turbidity: Turbidity level, a measure of water clarity.
+10. Potability: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
 
 #### Project Link
 https://github.com/Coollaitar/Classification/blob/main/water-potability.ipynb
