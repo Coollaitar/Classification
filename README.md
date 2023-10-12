@@ -26,4 +26,4 @@ The features used in this project include:
 10. Potability: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
 
 #### Project Link
-https://www.kaggle.com/code/aaditpalande/water-potability
+https://www.kaggle.com/code/aaditpalande/71-accuracy-removing-outliers
